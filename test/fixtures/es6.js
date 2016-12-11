@@ -13,6 +13,7 @@ module.exports = {
   'no-duplicate-imports': null,
   'no-new-symbol': null,
   'no-restricted-imports': null,
+  'no-return-await': null,
   'no-this-before-super': null,
   'no-useless-computed-key': null,
   'no-useless-constructor': null,
@@ -26,6 +27,7 @@ module.exports = {
   'prefer-rest-params': null,
   'prefer-spread': null,
   'prefer-template': null,
+  'require-await': null, // https://github.com/dwyl/goodparts/issues/277
   'require-yield': null,
   'rest-spread-spacing': null,
   'sort-imports': null,

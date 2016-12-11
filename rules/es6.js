@@ -13,6 +13,7 @@ module.exports = {
   'no-duplicate-imports': 'off',
   'no-new-symbol': 'off',
   'no-restricted-imports': 'off',
+  'no-return-await': 'off', // https://github.com/dwyl/goodparts/issues/274
   'no-this-before-super': 'off',
   'no-useless-computed-key': 'off',
   'no-useless-constructor': 'off',
@@ -27,6 +28,7 @@ module.exports = {
   'prefer-spread': 'off',
   'prefer-template': 'off',
   'require-yield': 'off',
+  'require-await': 'off', // https://github.com/dwyl/goodparts/issues/277
   'rest-spread-spacing': 'off',
   'sort-imports': 'off',
   'symbol-description': 'off',
